@@ -6,8 +6,12 @@ A simple, interactive quiz game built with **HTML**, **CSS**, and **JavaScript**
 
 ## 📸 Preview
 
-![Quiz Game Screenshot](screenshot.png)  
-*(Add a screenshot of your project and name it `screenshot.png` or update the link)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29daacee-a362-4f67-9af1-7d643cfcdc75" alt="Quiz Start" width="600">
+  <img src="https://github.com/user-attachments/assets/1591d708-b46c-43ae-b674-94aea20a7347" alt="Quiz Question" width="600">
+  <img src="https://github.com/user-attachments/assets/37a90ea6-e8fe-462e-a9dc-55bdc1ce3e23" alt="Quiz Screenshot 3" width="600">
+  <img src="https://github.com/user-attachments/assets/96ae09a7-7a5b-422b-b7de-e1c1bbcbe1d9" alt="Quiz Screenshot 4" width="600">
+</p>
 
 ---
 
@@ -37,6 +41,7 @@ quiz-game/
 ├── style.css
 ├── script.js
 └── README.md
+
 
 ---
 
